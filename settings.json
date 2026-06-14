@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "archisameh.aternos.me:23178",
+    "ip": "archisameh.aternos.me",
     "port": 23178,
     "version": "1.21.11",
     "try-creative": false
